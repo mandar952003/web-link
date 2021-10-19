@@ -1,0 +1,21 @@
+h1{
+    color:aqua
+}
+*{
+    border:solid
+}
+.header{
+    background-color: rgb(0, 128, 202);
+ 
+    justify-content: center;
+}
+.grid{
+    
+    flex-wrap: wrap;
+    justify-content: left;
+}
+.footer{
+    display:flex;
+    background-color: chartreuse;
+    justify-content: initial;
+}
